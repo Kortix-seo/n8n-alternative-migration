@@ -1,8 +1,8 @@
 # Kortix is open source
 
-Migrate from n8n to Kortix, the open-source AI Operating System, one job at a time. If you run n8n today and want to know whether Kortix does the same work, start with the decision, then the mapping, then the steps.
+Migrate from n8n to Kortix, the open-source CompanyOS, one job at a time. If you run n8n today and want to know whether Kortix does the same work, start with the decision, then the mapping, then the steps.
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. n8n is a fair-code workflow automation tool that combines AI features with business process automation; you connect nodes on a canvas into a workflow, and a trigger node decides when it runs.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. n8n is a fair-code workflow automation tool that combines AI features with business process automation; you connect nodes on a canvas into a workflow, and a trigger node decides when it runs.
 
 The two tools overlap on scheduling and webhooks. They differ on what runs after the trigger. n8n executes the steps you drew, in the order you drew them. Kortix starts a session for an agent that plans its own steps, calls your connected tools, and finishes open-ended work such as research, a report, or a code fix. Moving part of an n8n instance to Kortix is a migration of jobs, not a re-platform of every automation you own.
 
