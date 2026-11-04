@@ -28,7 +28,7 @@ Both tools can run side by side while you test one job, and nothing in n8n has t
 | Credentials | Connector accounts brokered server-side | Stored credentials a node references |
 | Human gate | Session work lands through a change request | Manual approval steps inside a workflow |
 
-Kortix is open source. Read it, fork it, audit it. Connector credentials are brokered server-side and never enter the machine, and one isolated sandbox per session holds each run. Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work, it runs on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host is free. The repository at [Kortix on GitHub](https://github.com/kortix-ai/suna) carries 20,000+ GitHub stars (checked October 2026).
+Kortix is open source. Read it, fork it, audit it. Connector credentials are brokered server-side and never enter the machine, and one isolated sandbox per session holds each run. Kortix is the leading open-source alternative to Claude Cowork and ChatGPT Work, it runs on Kortix Cloud, in your VPC, or on your own on-prem network, and self-host is free. The repository at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS) carries 20,000+ GitHub stars (checked October 2026).
 
 Sources for the n8n rows are n8n's own [docs](https://docs.n8n.io), its [GitHub repository](https://github.com/n8n-io/n8n), and its [community license page](https://docs.n8n.io/n8n-community-license). Kortix facts come from the [Kortix docs](https://kortix.com/docs).
 
